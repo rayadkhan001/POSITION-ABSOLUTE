@@ -1,0 +1,42 @@
+.position{
+	border: 4px solid red;
+	min-height: 400px;
+	position: relative;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+.box1{
+	background-color: red;
+	top: 0;
+	left: 0;
+}
+.box2{
+	margin: 150px auto;
+	left: 0;
+	right: 0;
+	background-color: green;
+}
+.box3{
+	background-color: black;
+	top: 0;
+	right: 0;
+}
+.box4{
+	background-color: blue;
+	right: 0;
+	bottom: 0;
+}
+.box5{
+	background-color: aqua;
+	left: 0;
+	bottom: 0;
+
+}
+
+
+
+
+
